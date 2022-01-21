@@ -23,6 +23,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Singleton", "Singleton\Sing
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solid", "Solid", "{59DC7EC5-66E3-4E70-8017-ADA8611981DE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DependencyInjection", "DependencyInjection\DependencyInjection.csproj", "{8A3CE4EC-2CC1-479E-81D3-792609C6E159}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -57,6 +59,10 @@ Global
 		{0F440A3C-582A-4CAD-9037-0D9B91DD9A8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0F440A3C-582A-4CAD-9037-0D9B91DD9A8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0F440A3C-582A-4CAD-9037-0D9B91DD9A8A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A3CE4EC-2CC1-479E-81D3-792609C6E159}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A3CE4EC-2CC1-479E-81D3-792609C6E159}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A3CE4EC-2CC1-479E-81D3-792609C6E159}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A3CE4EC-2CC1-479E-81D3-792609C6E159}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -67,6 +73,7 @@ Global
 		{E54D0BA2-6871-4AA8-97C1-FEB19E207B31} = {1AE8CC56-DC1D-48D6-A236-17BBE46B3E40}
 		{249F3DEB-2AFA-42F9-95F6-8618B38EF722} = {1AE8CC56-DC1D-48D6-A236-17BBE46B3E40}
 		{0F440A3C-582A-4CAD-9037-0D9B91DD9A8A} = {757E0C7B-A393-4A3A-91F2-7873724222DE}
+		{8A3CE4EC-2CC1-479E-81D3-792609C6E159} = {757E0C7B-A393-4A3A-91F2-7873724222DE}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {AC2E7757-577C-4EC3-9F3F-2481D69B6C49}
